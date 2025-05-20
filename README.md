@@ -108,7 +108,8 @@ Example Input and Output
 "A majestic lion standing on a cliff during a golden sunset."
 
 ##### Output:
-![image](https://github.com/user-attachments/assets/59e4117c-d777-4c63-ad44-c1b84dbeb96a)
+![image](https://github.com/user-attachments/assets/c35a8af0-0f47-49fc-b026-7a60e33c32af)
+
 
 
 ### RESULT:
